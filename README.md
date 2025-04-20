@@ -1,7 +1,7 @@
-Here's a well-structured and detailed `README.md` file for your 3-tier AWS architecture project:
 
 ```markdown
 # AWS 3-Tier Architecture with Custom Domain
+
 
 A robust 3-tier application built on AWS with presentation, application, and database tiers, featuring auto-scaling, load balancing, and custom domain configuration via Route 53.
 
@@ -109,6 +109,7 @@ Create 5 security groups with these configurations:
 1. Create a new S3 bucket with unique name (e.g., `demo-3tier-bucket-007`)
 2. Clone application code:  
    `git clone https://github.com/Uwadon1/3TierArchitectureApp.git`
+   https://github.com/Uwadon1/3-Tier-Application.git
 3. Upload application code to the S3 bucket
 
 **IAM Role**:
